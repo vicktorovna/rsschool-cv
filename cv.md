@@ -32,21 +32,23 @@ function validatePIN (pin) {
     k+=1;  
   };  
   if (Number(pin)===NaN){return false;}  
-  if (k===6 | k===4){return true;}else{return false;};  
+  if (k===6 | k===4){return true;}  
+  else{return false;};  
 } 
 ```
 
 ## Worck expirience
 
 2D-Artist of vector illustration;  
+
 Robotics teacher;  
+
 Freelancer;  
 
 ## Education 
 
 * Bachelor, Belarusian National Technical University (2019 -2023)   
-
-+ Faculty of Engineering and Pedagogy
+    + Faculty of Engineering and Pedagogy
 
 * Way-up courses
 
