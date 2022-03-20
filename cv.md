@@ -21,7 +21,7 @@
 
 ## Code exemples (Sorry...)
 
-    ~~~
+    ```
     function validatePIN (pin) {
   let k=0;
 //  const regex = /[a-b]/;
@@ -37,20 +37,26 @@
   if (k===6 | k===4){return true;}else{return false;};
   //return true or false
 }
-    ~~~
+    ```
 
 ## Worck expirience
+
     2D-Artist of vector illustration;
     Robotics teacher;
     Freelancer;
-## Education
+
+## Education 
+
     * Bachelor, Belarusian National Technical University (2019 -2023) 
         + Faculty of Engineering and Pedagogy
     * Way-up courses
         + HTML\CSS
-        * JS-basics
-## Languages
+        * JS-basics  
+
+## Languages  
+
 * Russian
-* Belarusian
- * ### English 
+* Belarusian  
+
+* ### English 
     + B1
