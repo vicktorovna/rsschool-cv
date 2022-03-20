@@ -1,13 +1,18 @@
 # Kaminskaya Inessa
+
 ## Contacs
+
     GitHub: vicktorovna
     Discorde: Viktorovna(#4021)
     Linkedin: [Inessa Kaminskaya](https://www.linkedin.com/in/inessa-kaminskaya-13b427226/)
     E-mail: ines.kaminskaya@gmail.com
-## About myself
+
+## About myself  
+
     I like to work hard. Programing is hard. So, programing training is just what I need.
 
-## Skills
+## Skills  
+
     PascalABC(junior)
     c++ (basics)
     MySQL (basics)
@@ -15,6 +20,7 @@
 
 
 ## Code exemples (Sorry...)
+
     ~~~
     function validatePIN (pin) {
   let k=0;
@@ -32,6 +38,7 @@
   //return true or false
 }
     ~~~
+
 ## Worck expirience
     2D-Artist of vector illustration;
     Robotics teacher;
